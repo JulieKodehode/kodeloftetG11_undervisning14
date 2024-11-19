@@ -36,6 +36,12 @@ section {
   height: 100vh;
 }
 
+.greenContainer {
+  height: 200px;
+  width: 200px;
+  background-color: green;
+}
+
 /* FOOTER */
 footer {
   display: flex;
